@@ -1,7 +1,5 @@
 #include <SoftwareSerial.h>
 #include <LedControl.h>
-#include <Thread.h>
-#include <ThreadController.h>
 
 #define RXPIN 9
 #define TXPIN 8
